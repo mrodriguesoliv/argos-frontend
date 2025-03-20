@@ -20,17 +20,5 @@
   "../node_modules/.pnpm/@supabase+storage-js@2.7.1/node_modules/@supabase/storage-js/dist/module/lib/helpers.js -> @supabase/node-fetch": {
     "id": "../node_modules/.pnpm/@supabase+storage-js@2.7.1/node_modules/@supabase/storage-js/dist/module/lib/helpers.js -> @supabase/node-fetch",
     "files": []
-  },
-  "components/Charts/balance-dialogs-overview/chart.tsx -> react-apexcharts": {
-    "id": "components/Charts/balance-dialogs-overview/chart.tsx -> react-apexcharts",
-    "files": [
-      "static/chunks/_app-pages-browser_node_modules_pnpm_react-apexcharts_1_7_0_apexcharts_3_54_1_react_19_0_0_no-69323a.js"
-    ]
-  },
-  "components/Charts/balance-questions-overview/chart.tsx -> react-apexcharts": {
-    "id": "components/Charts/balance-questions-overview/chart.tsx -> react-apexcharts",
-    "files": [
-      "static/chunks/_app-pages-browser_node_modules_pnpm_react-apexcharts_1_7_0_apexcharts_3_54_1_react_19_0_0_no-69323a.js"
-    ]
   }
 }

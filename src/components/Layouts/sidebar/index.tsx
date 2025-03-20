@@ -34,7 +34,6 @@ export function Sidebar() {
               toggleExpanded(item.title);
             }
 
-            // Break the loop
             return true;
           }
         });
@@ -44,7 +43,7 @@ export function Sidebar() {
 
   return (
     <>
-      {/* Mobile Overlay */}
+
       {isMobile && isOpen && (
         <div
           className="fixed inset-0 z-40 bg-black/50 transition-opacity duration-300"
@@ -85,11 +84,10 @@ export function Sidebar() {
             )}
           </div>
 
-          {/* Navigation */}
           <div className="custom-scrollbar mt-6 flex-1 overflow-y-auto pr-3 min-[850px]:mt-10">
             {NAV_DATA.map((section) => (
               <div key={section.label} className="mb-6">
-                <h2 className="mb-5 text-sm font-medium text-dark-4 dark:text-dark-6">
+                <h2 className="mb-5 text-sm font-medium text-black dark:text-white">
                   {section.label}
                 </h2>
 
