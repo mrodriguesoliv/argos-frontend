@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://public-assets.usekimono.ai/logo-high-quality.png" alt="Kimono AI Logo" width="150">
-<h1 align="center">Kimono AI</h1>
+<h1 align="center">Kimono AI 👘</h1>
 <p align="center">
 A Plataforma Aberta para Agentes de IA Autônomos.
 <br />
