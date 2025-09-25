@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Kimono AI 👘</h1>
 <p align="center">
-A Plataforma Aberta para Agentes de IA Autônomos.
+Kimono AI: inteligência autônoma da LLM impulsionando agentes inteligentes e transparentes.
 <br />
 <a href="https://app.usekimono.ai"><strong>Visite o Projeto »</strong></a>
 <br />
