@@ -6,14 +6,7 @@ Kimono AI: inteligência autônoma da LLM impulsionando agentes inteligentes e t
 <a href="https://app.usekimono.ai"><strong>Visite o Projeto »</strong></a>
 <br />
 <br />
-<a href="#-principais-recursos">Recursos</a>
-·
-<a href="#-começando">Começando</a>
-·
-<a href="#-arquitetura">Arquitetura</a>
-</p>
-</div>
-<!-- Badges -->
+
 <div align="center">
 <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status">
 <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
